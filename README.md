@@ -1,4 +1,4 @@
-<h1 align="center">Assalam - U - Walaikum Hi 👋, I'm Aliyan Khan</h1>
+<h1 align="center">Assalam-U-Walaikum Hi 👋, I'm Aliyan Khan</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliyankhan22" alt="aliyankhan22" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
