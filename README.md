@@ -1,7 +1,7 @@
 <h1 align="center">Assalam-U-Walaikum Hi 👋, I'm Aliyan Khan</h1>
 <!-- <h3 align="center">A passionate front end developer from Pakistan</h3> -->
 
-<div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=5000&size=34&duration=5000&pause=600&color=225CF7&center=true&vCenter=true&width=435&lines=Front+End+Developer+;Web+Designer+;" alt="Typing SVG" /></div>
+<div align='center'><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=5000&size=34&duration=5000&pause=600&color=225CF7&center=true&vCenter=true&width=435&lines='Front+End+Developer'+;'Web+Designer'+;" alt="Typing SVG" /></div>
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliyankhan22" alt="aliyankhan22" /></a> </p>
 
